@@ -53,7 +53,7 @@ namespace ImplicitTyping
              * Once compiled, a ‘dynamic’ is usually represented as a System.
              * Object(but without the compile time checks!)
              */
-            dynamic dy = "Hellow World!";
+            dynamic dy = "Hello World!";
 
         }
     }
